@@ -1,0 +1,8 @@
+
+
+export function InputUser(){
+    return(
+        <>
+        </>
+    )
+}
